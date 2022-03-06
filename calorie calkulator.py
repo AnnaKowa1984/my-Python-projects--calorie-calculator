@@ -9,7 +9,7 @@ produkty = {}
 
 while (True):
     print ("1 : Dodaj produkt")
-    print ("2 : Znajdź produkt")
+    print ("2 : Znajdz produkt")
     print ("3 : Usuń produkt")
     print ("4 : Zakończ")
 
